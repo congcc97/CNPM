@@ -361,6 +361,12 @@ nav ul.navbar-nav li a {
     font-size: 18px;
 }
 
+#dau-tu img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+
 #lien-he {
     background-image: url(images/bg-dk.jpg);
     padding: 75px 15%;
